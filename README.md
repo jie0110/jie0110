@@ -24,9 +24,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jie0110&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Jiewang's Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jie0110&show_icons=true&theme=radical" alt="Jiewang's Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jie0110&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jie0110&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
