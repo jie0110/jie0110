@@ -9,6 +9,7 @@
 - 🧠 **Expertise:** Specialized in **Navigation** and **Perception** algorithms.
 - ⚡ **Goal:** Building smarter and more autonomous robotic systems.
 - 📫 **Reach me:** [wjjy1123@163.com](mailto:wjjy1123@163.com)
+- 🌐 **Socials:** [![Blog](https://img.shields.io/badge/Blog-个人博客-007ACC?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/weixin_43994752?type=blog) [![Bilibili](https://img.shields.io/badge/Bilibili-哔哩哔哩-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/318865194)
 
 ---
 
@@ -24,9 +25,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jie0110&show_icons=true&theme=radical" alt="Jiewang's Stats" />
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jie0110&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jie0110&show_icons=true&theme=radical" height="160" alt="Jiewang's Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jie0110&layout=compact&theme=radical" height="160" alt="Top Langs" />
 </p>
 
 ---
